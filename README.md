@@ -4,7 +4,7 @@
 
 1. Clone Repository:
 ```
-$git clone https://github.com/BUMETCS673/group-project-team4.git
+$git clone https://github.com/RyanHSL/FAQ-ChatBot.git
 ```
 2. Set up the local Python 3.x environment in your local machine.
 ```
